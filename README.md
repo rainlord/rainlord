@@ -1,0 +1,2 @@
+# rainlord
+AI homework
